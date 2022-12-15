@@ -1,0 +1,23 @@
+Cartopy @ file:///C:/ci/cartopy_1636040271244/work
+cftime==1.5.0
+dask==2021.10.0
+h5netcdf==0.11.0
+h5py==2.10.0
+nc-time-axis==1.4.1
+netCDF4==1.5.7
+pandas @ file:///C:/ci/pandas_1635488579061/work
+rioxarray==0.13.2
+scikit-image==0.18.3
+scikit-learn @ file:///C:/ci/scikit-learn_1635188126022/work
+scikit-learn-intelex==2021.20211201.114757
+scipy @ file:///C:/ci/scipy_1630606942584/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
+Shapely==1.7.1
+SkillMetrics==1.1.8
+sklearn==0.0
+Sphinx==4.2.0
+statsmodels==0.12.2
+verif==1.2.0
+voila==0.2.16
+xarray==0.19.0
+xarray-hdf==0.1.0
