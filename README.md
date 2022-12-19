@@ -38,9 +38,8 @@ To work through the course you will need three things on your computer: <br />
 
 A copy of the course Jupyter notebooks <br />
 A copy of the datasets we’ll be working with <br />
-A conda environment with the necessary packages installed <br />
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeffjay88/WASCAL_SCourse_Statistics_2022/master?labpath=SCourse_Data_Statistics.ipynb)
-If you are having difficulty getting set up on your own computer you may click the "launch on binder"-link above. Note: when you run the exercises on binder what you write will not be saved locally and so you will loose your work if you close the browser.
+A working environment with the necessary packages installed <br />
+If you are having difficulty getting set up on your own computer you may click the "launch on binder"-link [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeffjay88/WASCAL_SCourse_Statistics_2022/master?labpath=SCourse_Data_Statistics.ipynb). Note: when you run the exercises on binder what you write will not be saved locally and so you will loose your work if you close the browser.
 
 1. Downloading the notebooks to your computer<br />
 The easiest way to get a copy of the notebooks on your computer is simply to clone this repository<br />
