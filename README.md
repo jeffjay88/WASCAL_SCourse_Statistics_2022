@@ -28,19 +28,19 @@ Spatial Econometric Analysis
 
 
 Getting started
-To work through the course you will need three things on your computer:
+To work through the course you will need three things on your computer: <br />
 
-A copy of the course Jupyter notebooks
-A copy of the datasets we’ll be working with
-A conda environment with the necessary packages installed
+A copy of the course Jupyter notebooks <br />
+A copy of the datasets we’ll be working with <br />
+A conda environment with the necessary packages installed <br />
 If you are having difficulty getting set up on your own computer you may click the "launch on binder"-link above. Note: when you run the exercises on binder what you write will not be saved locally and so you will loose your work if you close the browser.
 
-1. Downloading the notebooks to your computer
-The easiest way to get a copy of the notebooks on your computer is simply to clone this repository
+1. Downloading the notebooks to your computer<br />
+The easiest way to get a copy of the notebooks on your computer is simply to clone this repository<br />
 
-$> git clone https://github.com/jeffjay88/WASCAL_SCourse_Statistics_2022/ 
+$> git clone https://github.com/jeffjay88/WASCAL_SCourse_Statistics_2022/ <br />
 
-$> cd https://github.com/jeffjay88/WASCAL_SCourse_Statistics_2022/
+$> cd https://github.com/jeffjay88/WASCAL_SCourse_Statistics_2022/<br />
 
 2. Download the datasets to your computer
 All the datasets used in this course are stored in the data directory:
