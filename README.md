@@ -38,8 +38,10 @@ If you are having difficulty getting set up on your own computer you may click t
 1. Downloading the notebooks to your computer
 The easiest way to get a copy of the notebooks on your computer is simply to clone this repository
 
-$> git clone https://github.com/jeffjay88/WASCAL_SCourse_Statistics_2022/
+$> git clone https://github.com/jeffjay88/WASCAL_SCourse_Statistics_2022/ 
+
 $> cd https://github.com/jeffjay88/WASCAL_SCourse_Statistics_2022/
+
 2. Download the datasets to your computer
 All the datasets used in this course are stored in the data directory:
 
