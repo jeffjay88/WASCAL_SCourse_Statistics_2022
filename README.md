@@ -14,6 +14,7 @@ The repository contains the Jupyter (working) notebook which makes up the module
 
 Course overview<br />
 The entire course spans a total of 2 days (4 modules) with the lecture sessions on Data Analysis and Statistics. Participants need to have a background knowledge of Python and its use in reading and manipulating data. You can find some background information here: <a href="https://github.com/jeffjay88/OneQuantum-Ghana">https://github.com/jeffjay88/OneQuantum-Ghana</a>. <br />
+<a href="http:www.youtube.com/@meteodata">MeteoData</a>
 
 
 
