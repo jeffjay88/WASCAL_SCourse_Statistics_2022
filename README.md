@@ -9,6 +9,9 @@ Hi!<br />
 
 You're looking at the repository for the WASCAL SHORT COURSE on CLIMATE AND LAND USE DATA ANALYSIS AND APPLICATIONS, held at the WASCAL CLimate Change and Land Use (CCLU, KNUST) on the 19th and 20th December 2022.<br />
 
+<img width="438" alt="image" src="https://user-images.githubusercontent.com/15953894/208418258-22f47865-8f95-49b0-bf87-7345e49b0a53.png">
+
+
 The repository contains the Jupyter (working) notebook which makes up the module 3 training material (with some trial exercises). <br />
 
 Course overview<br />
