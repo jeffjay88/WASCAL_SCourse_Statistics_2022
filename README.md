@@ -53,7 +53,7 @@ All the datasets used in this course are stored in the data directory:<br />
 3. Setting up your environment<br />
 To install the python packages you will be taught to use in this course you can use the pip "requirements-file" included in the course repository (it's called requirements.txt). First make sure you have pip/pip3 installed on your computer (instructions on how to install pip)<br />
 
-$> python -m pip install pip3<br />
+$> python -m pip install pip<br />
 
 # You can also upgrade your pip package to the latest version<br />
 $> python -m pip install --upgrade pip3<br />
