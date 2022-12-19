@@ -4,12 +4,12 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeffjay88/WASCAL_SCourse_Statistics_2022/master?labpath=SCourse_Data_Statistics.ipynb)
 
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/15953894/208418258-22f47865-8f95-49b0-bf87-7345e49b0a53.png">
 
 Hi!<br />
 
 You're looking at the repository for the WASCAL SHORT COURSE on CLIMATE AND LAND USE DATA ANALYSIS AND APPLICATIONS, held at the WASCAL CLimate Change and Land Use (CCLU, KNUST) on the 19th and 20th December 2022.<br />
 
-<img width="438" alt="image" src="https://user-images.githubusercontent.com/15953894/208418258-22f47865-8f95-49b0-bf87-7345e49b0a53.png">
 
 
 The repository contains the Jupyter (working) notebook which makes up the module 3 training material (with some trial exercises). <br />
@@ -39,6 +39,7 @@ To work through the course you will need three things on your computer: <br />
 A copy of the course Jupyter notebooks <br />
 A copy of the datasets we’ll be working with <br />
 A conda environment with the necessary packages installed <br />
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeffjay88/WASCAL_SCourse_Statistics_2022/master?labpath=SCourse_Data_Statistics.ipynb)
 If you are having difficulty getting set up on your own computer you may click the "launch on binder"-link above. Note: when you run the exercises on binder what you write will not be saved locally and so you will loose your work if you close the browser.
 
 1. Downloading the notebooks to your computer<br />
@@ -68,5 +69,5 @@ $>jupyter notebook<br />
 We hope you enjoy the course!<br />
 Dr. Jeffrey N. A. Aryee, Dr. Maxwell Akwasi Boating, Dr. Isaac Adjei Mensah and Dr. A. Y. Omari-Sasu
 
-<img width="407" alt="image" src="https://user-images.githubusercontent.com/15953894/208418812-997444f4-82f3-41e0-9f62-4a78b3b3b720.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/15953894/208418812-997444f4-82f3-41e0-9f62-4a78b3b3b720.png">
 
