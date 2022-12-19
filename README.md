@@ -67,3 +67,6 @@ $>jupyter notebook<br />
 
 We hope you enjoy the course!<br />
 Dr. Jeffrey N. A. Aryee, Dr. Maxwell Akwasi Boating, Dr. Isaac Adjei Mensah and Dr. A. Y. Omari-Sasu
+
+<img width="407" alt="image" src="https://user-images.githubusercontent.com/15953894/208418812-997444f4-82f3-41e0-9f62-4a78b3b3b720.png">
+
