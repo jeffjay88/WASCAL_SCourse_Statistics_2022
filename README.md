@@ -19,14 +19,13 @@ The entire course spans a total of 2 days (4 modules) with the lecture sessions 
 
 
 
-Monday:
-
+<h2>Monday:</h2><br />
 Exploratory Data Analysis; <br />
 Time Series Modelling; <br />
 Vector Autocorrection Model (VECM); <br />
 Autoregressive Distributed Lag (ARDL) Cointegration Technique<br />
 
-Tuesday:
+<h2>Tuesday:</h2><br />
 Climate Statistics & Application:  <a href="SCourse_Data_Statistics.ipynb">SCourse_Data_Statistics.ipynb</a>; <br />
 Validation Metrics; <br />
 Spatial Econometric Analysis<br /> 
