@@ -54,13 +54,13 @@ To install the python packages you will be taught to use in this course you can 
 $> python -m pip install pip<br />
 
 # You can also upgrade your pip package to the latest version<br />
-$> python -m pip install --upgrade pip3<br />
+$> python -m pip install --upgrade pip<br />
 
 You can install all the required packages.<br />
 $> pip install requirements.txt<br />
 
 You can now open up a Jupyter notebook session and get working on the notebooks.<br />
-$>jupyter notebook<br />
+$>jupyter notebook<br /><br /><br />
 
 We hope you enjoy the course!<br />
 Dr. Jeffrey N. A. Aryee, Dr. Maxwell Akwasi Boating, Dr. Isaac Adjei Mensah and Dr. A. Y. Omari-Sasu
