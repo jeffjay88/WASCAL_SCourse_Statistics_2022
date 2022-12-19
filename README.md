@@ -24,7 +24,7 @@ Vector Autocorrection Model (VECM); <br />
 Autoregressive Distributed Lag (ARDL) Cointegration Technique<br />
 
 Tuesday:
-Climate Statistics & Application:  SCourse_Data_Statistics.ipynb; <br />
+Climate Statistics & Application:  <a href="SCourse_Data_Statistics.ipynb">SCourse_Data_Statistics.ipynb</a>; <br />
 Validation Metrics; <br />
 Spatial Econometric Analysis<br /> 
 
