@@ -19,20 +19,20 @@ The entire course spans a total of 2 days (4 modules) with the lecture sessions 
 
 
 
-<h2>Monday:</h2><br />
+<h2>Monday:</h2>
 Exploratory Data Analysis; <br />
 Time Series Modelling; <br />
 Vector Autocorrection Model (VECM); <br />
-Autoregressive Distributed Lag (ARDL) Cointegration Technique<br />
+Autoregressive Distributed Lag (ARDL) Cointegration Technique<br /><br />
 
-<h2>Tuesday:</h2><br />
+<h2>Tuesday:</h2>
 Climate Statistics & Application:  <a href="SCourse_Data_Statistics.ipynb">SCourse_Data_Statistics.ipynb</a>; <br />
 Validation Metrics; <br />
 Spatial Econometric Analysis<br /> 
 
 
 
-Getting started
+<h2>Getting started</h2>
 To work through the course you will need three things on your computer: <br />
 
 A copy of the course Jupyter notebooks <br />
