@@ -58,7 +58,7 @@ $> python -m pip install pip<br />
 $> python -m pip install --upgrade pip<br />
 
 You can install all the required packages.<br />
-$> pip install requirements.txt<br />
+$> pip install -r Path/requirements.txt<br />
 
 You can now open up a Jupyter notebook session and get working on the notebooks.<br />
 $>jupyter notebook<br /><br /><br />
