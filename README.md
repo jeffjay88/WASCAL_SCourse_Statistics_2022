@@ -19,8 +19,8 @@ The entire course spans a total of 2 days (4 modules) with the lecture sessions 
 
 
 <h2>Day 1 (Monday):</h2>
-Exploratory Data Analysis; <br />
-Time Series Modelling; <br />
+Exploratory Data Analysis <a href="https://github.com/jeffjay88/WASCAL_SCourse_Statistics_2022/blob/master/Day1.zip"> Day1.zip</a>; <br />
+Time Series Modelling <a href="https://github.com/jeffjay88/WASCAL_SCourse_Statistics_2022/blob/master/Day1.zip"> Day1.zip</a>; <br />
 Vector Autocorrection Model (VECM); <br />
 Autoregressive Distributed Lag (ARDL) Cointegration Technique<br /><br />
 
@@ -28,6 +28,7 @@ Autoregressive Distributed Lag (ARDL) Cointegration Technique<br /><br />
 Climate Statistics & Application:  <a href="SCourse_Data_Statistics.ipynb">SCourse_Data_Statistics.ipynb</a>; <br />
 Validation Metrics: <a href="SCourse_Data_Statistics.ipynb">SCourse_Data_Statistics.ipynb</a>; <br />
 Spatial Econometric Analysis<br /> 
+
 
 
 
